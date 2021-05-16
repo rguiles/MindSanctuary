@@ -12,6 +12,7 @@
   - flask_login
   - flask_bcrypt
   - flask_mysqldb
+  - flask_session
   - email_validator
   - flask_sqlalchemy
 
