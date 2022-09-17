@@ -7,6 +7,10 @@
     #sloganText {
         display: block !important;
     }
+    #stmt {
+        max-height: 750px;
+        overflow-y: scroll;
+    }
 }
 @media screen and (max-width: 1500px) {
     #slogan {
@@ -45,9 +49,8 @@
     #welcomeMsg {
         width: 100% !important;
     }
-    #articles img {
-        width: 500px !important;
-        min-height: 440px !important;
+    #content2 {
+        display: none !important;
     }
 }
 #welcomeMsg {
